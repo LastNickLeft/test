@@ -1,0 +1,12 @@
+bot_version = "v1.0"
+bot_author = "Bailey#7800"
+bot_master = "Tadoo#4085"
+bot_author_id = "414799555025043456"
+bot_info_prefix = "-"
+bot_token = "NDM2NjM1NDkxMTY5OTkyNzI2.DbqYAQ.UFhgn5OGM_i4YalzshPRGaHU2p0"
+local_ip = ["127.0.0.1", "localhost", "192.168.0.1", "192.168.1.1"]
+allowed_roles = ["PUBG", "CSGO", "SIEGE", "GMOD", "ARMA", "FORTNITE"]
+random_status = ["Playing with Bailey", "Playing with Tadoo", "ethan is imallexx", "ARNIE!!!!", "Tadoo & Arnie"]
+banned_words = ["nigger", "nígger", "níggér", "niggér", "nig" , "nog", "nig nog", "nibba", "nog nig"]
+starting_status = "Arnie & Tadoo <3"
+arnie_command_array = ["https://cdn.discordapp.com/attachments/436948795641561101/437645274786299904/20180419_181659.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436606179448193024/20180311_120710.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436606178601074690/20180217_141506.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436606178601074688/20180221_172248.png","https://cdn.discordapp.com/attachments/436596900750163968/436606177367818250/20180406_135409.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605873037508610/JPEG_20180410_130542.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605872123281435/JPEG_20180407_191048.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605872123281429/20180419_181812.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605736349597698/IMG_20180419_185325_521.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605736349597696/IMG_20180419_185445_195.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605735791493131/20180419_181836.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605735791493130/IMG_20180419_185514_714.jpg","https://cdn.discordapp.com/attachments/436596900750163968/436605735296696331/IMG_20180419_185445_210.jpg"]
